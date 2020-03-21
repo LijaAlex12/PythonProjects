@@ -8,7 +8,7 @@ def multiply(num1, num2):
     return pdt
 
 # higher order function: a function that takes as input another function
-#the function that is input as parameter called CALLBACK function
+#the function that is input as parameter to the higher order function is called CALLBACK function
 
 
 def calculator(num1, num2, operator):
